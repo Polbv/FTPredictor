@@ -1,5 +1,5 @@
 # FTPredictor
-A Basketeball FT percentage prediction model based on pose estimation and LSTM
+A Basketball FT percentage prediction model based on pose estimation and LSTM
 
 
 
