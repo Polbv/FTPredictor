@@ -2,7 +2,8 @@
 A Basketeball FT percentage prediction model based on pose estimation and LSTM
 
 
-https://github.com/Polbv/FTPredictor/assets/51133757/e1ac42f3-f464-4136-83ed-8b49c396598d
+
+![ezgif com-video-to-gif](https://github.com/Polbv/FTPredictor/assets/51133757/ff439561-6409-4aae-9f92-e99b9acce6ca)
 
 
 
