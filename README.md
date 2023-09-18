@@ -11,7 +11,7 @@ A Basketeball FT percentage prediction model based on pose estimation and LSTM
 
 ## Installation
 
-python(3.8)
+(python 3.8)
 ```
 pip install torch torchvision torchaudio
 pip install tensorboard
